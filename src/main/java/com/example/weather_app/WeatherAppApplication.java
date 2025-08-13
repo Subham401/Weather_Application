@@ -10,3 +10,4 @@ public class WeatherAppApplication {
 		SpringApplication.run(WeatherAppApplication.class,args);
 	}
 }
+// mvn clean package -DskipTests

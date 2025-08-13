@@ -1,6 +1,5 @@
 package com.example.weather_app.Controller;
 
-
 import com.example.weather_app.Model.WeatherResponse;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.stereotype.Controller;
