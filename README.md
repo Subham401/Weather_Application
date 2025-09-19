@@ -50,11 +50,11 @@ docker run -p 8080:8080 weather-app
 ## 📷 Screenshots
 
 >> Home Page
-<img width="1919" height="604" alt="Screenshot 2025-08-12 170303" src="https://github.com/user-attachments/assets/2813d643-09dd-4fd1-986b-fe0cb7532cda" />
+<img width="1919" height="604" alt="Screenshot 2025-08-12 170303" src="https://github.com/user-attachments/assets/89506f74-5bbf-4c0a-a18f-745cf07774c2" />
 
 
 >> Weather Forcast Page
-<img width="1919" height="732" alt="Screenshot 2025-08-12 170321" src="https://github.com/user-attachments/assets/b81261df-a2da-4ab8-b332-f725d9d6993e" />
+<img width="1919" height="732" alt="Screenshot 2025-08-12 170321" src="https://github.com/user-attachments/assets/499155ac-1ff6-45ed-b0c3-423ab670ba72" />
 
 
 
